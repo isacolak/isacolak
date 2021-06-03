@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isacolak
-- 👀 I’m interested in software engineer
+- 👀 I’m interested in Software Engineer
 - 🌱 I’m currently learning AI 🤖
 - 📫 You can reach me at isacolak04@gmail.com
 <!-- - 💞️ I’m looking to collaborate on ... -->
