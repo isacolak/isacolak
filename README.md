@@ -1,5 +1,5 @@
-<!-- <h1 align="center"> <img src="https://media.giphy.com/media/2ipOXiyd3KuwIraVr2/giphy.gif?cid=ecf05e473m55jl2ztu01s96fwdlkrmvxm6fhtgi3n7jt0ias&rid=giphy.gif&ct=s" width="332" height="332"> </h1> -->
-<h1 align="center"> <img src="https://avatars.githubusercontent.com/u/48714435?v=4"> </h1>
+<h1 align="center"> <img src="https://media.giphy.com/media/2ipOXiyd3KuwIraVr2/giphy.gif?cid=ecf05e473m55jl2ztu01s96fwdlkrmvxm6fhtgi3n7jt0ias&rid=giphy.gif&ct=s" width="332" height="332"> </h1>
+<!-- <h1 align="center"> <img src="https://avatars.githubusercontent.com/u/48714435?v=4"> </h1> -->
 
 <h1 align="center"> Hi there👋 My name is İsa  </h1> <img src="https://gpvc.arturio.dev/isacolak" align="center">
 
