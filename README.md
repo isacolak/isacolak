@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/2ipOXiyd3KuwIraVr2/giphy.gif?cid=ecf05e473m55jl2ztu01s96fwdlkrmvxm6fhtgi3n7jt0ias&rid=giphy.gif&ct=s" width="332" height="332"> </h1>
 
-<h1 align="center">  Hi there👋 My name is İsa <!-- <img src="https://avatars.githubusercontent.com/u/48714435?v=4" width="35" height="35"> -->  </h1>
+<h1 align="center"> <a href="https://github.com/isacolak/"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><a/> Hi I'm İsa <!-- <img src="https://avatars.githubusercontent.com/u/48714435?v=4" width="35" height="35"> -->  </h1>
 
 
 -  📚 I am currently studying at Çanakkale Onsekiz Mart University, Department of Mechatronics.
@@ -10,8 +10,9 @@
 
 - Artificial Intelligence applications development 🤖
 - Contributing to Open-Source more 💌
-<a href="https://github.com/isacolak/KaanBOT">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isacolak&repo=KaanBOT&theme=material-palenight"> </a>
+- Developing the management bot of [HeppaSoft](https://discord.gg/JXzTJRPMNH) Discord server.
+<!-- <a href="https://github.com/heppasoft/HeppaBOT">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heppasoft&repo=HeppaBOT&theme=material-palenight"> </a> -->
 
 ### How to reach me 📢
 <a href="mailto:isacolak04@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
