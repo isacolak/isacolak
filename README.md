@@ -11,8 +11,8 @@
 - Artificial Intelligence applications development 🤖
 - Contributing to Open-Source more 💌
 - Developing the management bot of [HeppaSoft](https://discord.gg/JXzTJRPMNH) Discord server.
-<!-- <a href="https://github.com/heppasoft/HeppaBOT">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heppasoft&repo=HeppaBOT&theme=material-palenight"> </a> -->
+<a href="https://github.com/heppasoft/HeppaBOT">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heppasoft&repo=HeppaBOT&theme=material-palenight"> </a>
 
 ### How to reach me 📢
 <a href="mailto:isacolak04@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
