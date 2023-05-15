@@ -1,10 +1,8 @@
 <div align="center">
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=isacolak.isacolak">
-  <img align="center" src="https://media.giphy.com/media/2ipOXiyd3KuwIraVr2/giphy.gif?cid=ecf05e473m55jl2ztu01s96fwdlkrmvxm6fhtgi3n7jt0ias&rid=giphy.gif&ct=s" width="332" height="332">
+  <img src="https://media.giphy.com/media/2ipOXiyd3KuwIraVr2/giphy.gif?cid=ecf05e473m55jl2ztu01s96fwdlkrmvxm6fhtgi3n7jt0ias&rid=giphy.gif&ct=s" width="332" height="332">
 </div>
 
 <h1 align="center">
-
   <a href="https://github.com/isacolak/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+%C4%B0sa+%C3%87olak....;Nice+to+meet+you!" alt="Hello" />
   </a>
