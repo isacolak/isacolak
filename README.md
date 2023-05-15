@@ -9,10 +9,10 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/isacolak/" title="LinkedIn Profile" target="_blank"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/isacolak04" title="HackerRank Profile" target="_blank"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/13727991/isacolak" title="Stack Overflow Profile" target="_blank"<img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <!-- <code><a href="https://www.instagram.com/" title="Instagram Profile" target="_blank"><img width="22" src="images/instagram.svg"> Instagram</a></code> -->
+  <code><a href="https://www.linkedin.com/in/isacolak/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/isacolak04" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/13727991/isacolak" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <!-- <code><a href="https://www.instagram.com/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code> -->
 </h5>
 
 <br>
