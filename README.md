@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://github.com/isacolak/">
-    <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;My+Name+is+%C4%B0sa" alt="Hello" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+%C4%B0sa" alt="Hello" />
   </a>
 </h1>
 
