@@ -9,6 +9,8 @@
 </h1>
 
 <h5 align="center">
+  <code><a href="mailto:isacolak04@gmail.com" title="Gmail"><img width="22" src="images/gmail.png"> Mail</a></code>
+  <code><a href="https://discord.com/users/298175251328663553" title="Discord Profile"><img width="22" src="images/discord.jpg"> Discord</a></code>
   <code><a href="https://www.linkedin.com/in/isacolak/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/isacolak04" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/13727991/isacolak" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
@@ -37,17 +39,6 @@
   Contributing to Open-Source more 💌
   <br>
   Developing the management bot of <a href="https://discord.gg/JXzTJRPMNH">HeppaSoft</a> Discord server.
-</p>
-
-<br>
-
-<h2 align="center"> 📢 How to reach me 📢</h2>
-<br>
-<p align="center">
-  <a href="mailto:isacolak04@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
-  <!-- <a href=""> <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a>
-  <a href=""> <img alt="Discord" src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /> </a>
-  <a href=""> <img alt="Discord" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" /> </a> -->
 </p>
 
 <br>
