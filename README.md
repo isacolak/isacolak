@@ -6,6 +6,7 @@
 -  📚 I am currently studying at Çanakkale Onsekiz Mart University, Department of Mechatronics.
 -  🧪 I am interested in Hardware, ML, Game Development and Desktop Application Development. 
 -  ✨ I like to listen to music and learn new information
+-  💻 I love writing code and learn anythings about it
 ### 🌱 I’m currently working on:
 
 - Artificial Intelligence applications development 🤖
