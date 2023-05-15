@@ -1,6 +1,6 @@
 <div align="center">
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=isacolak.isacolak">
-  <img align="right"src="https://media.giphy.com/media/2ipOXiyd3KuwIraVr2/giphy.gif?cid=ecf05e473m55jl2ztu01s96fwdlkrmvxm6fhtgi3n7jt0ias&rid=giphy.gif&ct=s" width="332" height="332">
+  <img align="center" src="https://media.giphy.com/media/2ipOXiyd3KuwIraVr2/giphy.gif?cid=ecf05e473m55jl2ztu01s96fwdlkrmvxm6fhtgi3n7jt0ias&rid=giphy.gif&ct=s" width="332" height="332">
 </div>
 
 <h1 align="center">
