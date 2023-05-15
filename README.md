@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://github.com/isacolak/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+%C4%B0sa+%C3%87olak....;Nice+to+meet+you!" alt="Hello" />
+    <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;My+Name+is+%C4%B0sa" alt="Hello" />
   </a>
 </h1>
 
@@ -100,6 +100,7 @@
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=Kali+Linux&logoColor=white" alt="Kali">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
 </p>
  
