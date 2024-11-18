@@ -9,6 +9,7 @@
 </h1>
 
 <h5 align="center">
+  <code><a href="https://isacolak.heppasoft.net/" title="WebSite"><img width="22" src="images/internet.svg"> WebSite</a></code>
   <code><a href="mailto:isacolak04@gmail.com" title="Gmail"><img width="22" src="images/gmail.png"> Mail</a></code>
   <code><a href="https://discord.com/users/298175251328663553" title="Discord Profile"><img width="22" src="images/discord.jpg"> Discord</a></code>
   <code><a href="https://www.linkedin.com/in/isacolak/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
